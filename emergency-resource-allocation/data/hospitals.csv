@@ -1,0 +1,3 @@
+hospital_id,hospital_name,latitude,longitude,total_capacity,available_beds,emergency_capacity,medical_staff
+H1,General Hospital,29.765,-95.37,500,120,50,80
+H2,City Medical,29.745,-95.345,300,45,20,40

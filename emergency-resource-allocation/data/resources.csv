@@ -1,0 +1,5 @@
+resource_id,resource_type,quantity,warehouse_id
+R1,Food,10000,W1
+R2,Water,20000,W1
+R3,Medical_Kit,5000,W2
+R4,Food,5000,W2

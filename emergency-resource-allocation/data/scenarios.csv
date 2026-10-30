@@ -1,0 +1,4 @@
+scenario_id,name,description
+SC1,Flood,"High water requirement, blocked roads"
+SC2,Earthquake,"High building damage, high medical demand"
+SC3,Cyclone,"Infrastructure damage, shelter requirement"

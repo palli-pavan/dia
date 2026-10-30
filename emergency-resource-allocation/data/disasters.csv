@@ -1,0 +1,4 @@
+disaster_id,disaster_type,date,country,region,location,magnitude,total_affected,total_deaths,economic_damage
+D001,Flood,2023-05-10,USA,Texas,Houston,7.5,15000,15,5000000
+D002,Earthquake,2023-08-15,USA,California,San Francisco,6.8,8000,45,12000000
+D003,Cyclone,2023-09-20,USA,Florida,Miami,4.2,25000,12,8000000

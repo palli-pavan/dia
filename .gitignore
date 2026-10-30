@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+venv/
+.env*
+*.sqlite3*
+*.log
+.pytest_cache/
+.test-runs/
+.streamlit/secrets.toml
